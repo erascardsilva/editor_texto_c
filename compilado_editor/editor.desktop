@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name[pt_BR]=Editor Erasmo
+Comment[pt_BR]=Marcar pressão medida
+Exec=/mnt/HD 1 tera/programas/meus c++ QT/Editor de texto/editor
+Icon=/mnt/HD 1 tera/programas/meus c++ QT/Editor de texto/logo.png
+Categories=Utility;
+Type=Application
+Terminal=false

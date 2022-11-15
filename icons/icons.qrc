@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>about.png</file>
+        <file>background.png</file>
+        <file>center.png</file>
+        <file>clear.png</file>
+        <file>close.png</file>
+        <file>copy.png</file>
+        <file>cor.png</file>
+        <file>cut.png</file>
+        <file>edit.png</file>
+        <file>file.png</file>
+        <file>font.png</file>
+        <file>grammar.png</file>
+        <file>highlight.png</file>
+        <file>icons.qrc</file>
+        <file>left.png</file>
+        <file>list.png</file>
+        <file>open.png</file>
+        <file>paste.png</file>
+        <file>print.png</file>
+        <file>redo.png</file>
+        <file>right.png</file>
+        <file>save.png</file>
+        <file>search.png</file>
+        <file>undo.png</file>
+    </qresource>
+</RCC>
