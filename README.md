@@ -1,4 +1,4 @@
-# editor_texto_c
+# "Editor de texto vers 0.1"
 
 EDITOR DE TEXTO COMPLETAMENTE FUNCIONAL PEQUENO PROJETO EM QT CREATOR E C++
 Projeto criado em ambiente linux
